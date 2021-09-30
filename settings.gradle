@@ -1,0 +1,2 @@
+rootProject.name = "Animation_Lab_02"
+include ':app'
